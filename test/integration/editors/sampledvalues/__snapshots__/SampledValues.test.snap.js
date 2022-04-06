@@ -73,8 +73,8 @@ snapshots["Sampled Values Plugin when selecting a Sampled Values message the lis
         role="separator"
       >
       </li>
-      <ied-element>
-      </ied-element>
+      <ied-element-smv>
+      </ied-element-smv>
     </mwc-list>
     <mwc-list>
       <mwc-list-item
@@ -91,8 +91,8 @@ snapshots["Sampled Values Plugin when selecting a Sampled Values message the lis
         role="separator"
       >
       </li>
-      <ied-element>
-      </ied-element>
+      <ied-element-smv>
+      </ied-element-smv>
     </mwc-list>
     <mwc-list>
       <mwc-list-item
@@ -109,8 +109,8 @@ snapshots["Sampled Values Plugin when selecting a Sampled Values message the lis
         role="separator"
       >
       </li>
-      <ied-element>
-      </ied-element>
+      <ied-element-smv>
+      </ied-element-smv>
     </mwc-list>
   </div>
 </section>
@@ -138,10 +138,10 @@ snapshots["Sampled Values Plugin when selecting a Sampled Values message and you
         role="separator"
       >
       </li>
-      <ied-element>
-      </ied-element>
-      <ied-element>
-      </ied-element>
+      <ied-element-smv>
+      </ied-element-smv>
+      <ied-element-smv>
+      </ied-element-smv>
     </mwc-list>
     <mwc-list>
       <mwc-list-item
@@ -158,8 +158,8 @@ snapshots["Sampled Values Plugin when selecting a Sampled Values message and you
         role="separator"
       >
       </li>
-      <ied-element>
-      </ied-element>
+      <ied-element-smv>
+      </ied-element-smv>
     </mwc-list>
     <mwc-list>
       <mwc-list-item
@@ -239,8 +239,8 @@ snapshots["Sampled Values Plugin when selecting a Sampled Values message and you
         role="separator"
       >
       </li>
-      <ied-element>
-      </ied-element>
+      <ied-element-smv>
+      </ied-element-smv>
     </mwc-list>
     <mwc-list>
       <mwc-list-item
@@ -257,10 +257,10 @@ snapshots["Sampled Values Plugin when selecting a Sampled Values message and you
         role="separator"
       >
       </li>
-      <ied-element>
-      </ied-element>
-      <ied-element>
-      </ied-element>
+      <ied-element-smv>
+      </ied-element-smv>
+      <ied-element-smv>
+      </ied-element-smv>
     </mwc-list>
   </div>
 </section>
@@ -288,10 +288,10 @@ snapshots["Sampled Values Plugin when selecting a Sampled Values message and you
         role="separator"
       >
       </li>
-      <ied-element>
-      </ied-element>
-      <ied-element>
-      </ied-element>
+      <ied-element-smv>
+      </ied-element-smv>
+      <ied-element-smv>
+      </ied-element-smv>
     </mwc-list>
     <mwc-list>
       <mwc-list-item
@@ -334,8 +334,8 @@ snapshots["Sampled Values Plugin when selecting a Sampled Values message and you
         role="separator"
       >
       </li>
-      <ied-element>
-      </ied-element>
+      <ied-element-smv>
+      </ied-element-smv>
     </mwc-list>
   </div>
 </section>
